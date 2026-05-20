@@ -1,9 +1,5 @@
 # File-Organizer
-Here is a simple and clean README you can use for Task 3 – File Organizer Project 👇
-(You can copy–paste directly into your GitHub README.md)
 
-
----
 
 📂 File Organizer Script
 
